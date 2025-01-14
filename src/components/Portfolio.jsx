@@ -77,7 +77,7 @@ function Portfolio() {
                              <i className='bx bx-arrow-back' ></i>
                              <span className="tooltip">Preview</span>
                          </a>
-                         <a href="">
+                         <a href="https://github.com/Satish-kumar-Meher/E-KHETI">
                              <i className='bx bxl-github' ></i>
                              <span className="tooltip">Github Repo</span>
                          </a>
@@ -147,7 +147,7 @@ function Portfolio() {
                              <i className='bx bx-arrow-back' ></i>
                              <span className="tooltip">Preview</span>
                          </a>
-                         <a href="">
+                         <a href="https://github.com/Satish-kumar-Meher/Satish-Portfolio">
                              <i className='bx bxl-github' ></i>
                              <span className="tooltip">Github Repo</span>
                          </a>
