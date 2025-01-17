@@ -634,10 +634,7 @@ a:hover .tooltip,
 }
 
 @media screen and (max-width: 768px) {
-    .box {
-        top: 40px;
-        height: 95.9%;
-    }
+    
     html {
         font-size: 50%;
     }
@@ -674,10 +671,6 @@ a:hover .tooltip,
 
 @media screen and (max-width: 600px) {
     
-    .box {
-        top: 40px;
-        height: 95.9%;
-    }
     .resume,
     .portfolio {
         padding-top: 1rem;
@@ -693,10 +686,7 @@ a:hover .tooltip,
 }
 
 @media screen and (max-width: 450px) {
-    .box {
-        top: 40px;
-        height: 95.9%;
-    }
+   
 
 .nav {
     width: 100%;
@@ -727,10 +717,7 @@ a:hover .tooltip,
 }
 
 @media screen and (max-width: 350px) {
-    .box {
-        top: 40px;
-        height: 95.9%;
-    }
+   
     .img-box {
         width: 25rem;
         height: 25rem;
