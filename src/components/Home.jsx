@@ -1,6 +1,21 @@
 import React from 'react'
 import "../App.css";
+const CV_FILE = "/Satish-Resume.pdf"
 function Home() {
+    const downloadCV = () => {
+        const filename = CV_FILE.split("/").pop()
+        const aTag = document.createElement("a")
+        aTag.href = CV_FILE
+        aTag.setAttribute("download",filename)
+        document.body.appendChild(aTag)
+        aTag.target = "_blank";
+        aTag.click()
+        aTag.remove()
+        window.open(CV_FILE, "_blank");
+    }
+    // const downloadCV = () => {
+    //     window.open(CV_FILE, "_blank");
+    // };
   return (
     <>
      {/* <!-- home section --> */}
@@ -13,7 +28,9 @@ function Home() {
                     MERN STACK || API developer || UI/UX || DevOps || Microservices || IIIT-BH || CE 27'
                     </p>
                     <div className="btn-sci">
-                        <a href="#" className="btn">Download CV</a>
+                        <a className="btn" onClick={downloadCV}>Download CV</a>
+                        
+
                         <div className="sci"> 
                             <a href="https://github.com/Satish-kumar-Meher">
                                 <i className='bx bxl-github' ></i>
