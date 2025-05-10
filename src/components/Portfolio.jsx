@@ -15,6 +15,33 @@ function Portfolio() {
         </div>
         <div className="tab-wrapper">
             <div className="tab-grid portfolio-box work active">
+
+            <div className="tab-item portfolio-item">
+                   <div className="work-img">
+                    <img src="images/car_rental.png" alt=""/>
+                </div>
+                <div className="work-info">
+                    <h4>TripNGo</h4>
+                    <p>A Vehicle rental webiste, which is for both the vendour and trveller.</p>
+                    <div className="tech-used">
+                        <p>Tailwind css , ReactJS , NodeJS , MongoDB</p>
+                    </div>
+                    <div className="portfolio-icon work-icon">
+                        <a href="https://trip-n-go.vercel.app/">
+                            <i className='bx bx-arrow-back' ></i>
+                            <span className="tooltip">Preview</span>
+                        </a>
+                        <a href="https://github.com/Satish-kumar-Meher/Trip-n-Go">
+                            <i className='bx bxl-github' ></i>
+                            <span className="tooltip">Github Repo</span>
+                        </a>
+                    </div>
+                </div>
+                </div>
+
+
+
+
                 <div className="tab-item portfolio-item">
                    <div className="work-img">
                     <img src="images/cxn.png" alt=""/>
