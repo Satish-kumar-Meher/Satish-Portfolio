@@ -16,6 +16,8 @@ function Portfolio() {
         <div className="tab-wrapper">
             <div className="tab-grid portfolio-box work active">
 
+
+
             <div className="tab-item portfolio-item">
                    <div className="work-img">
                     <img src="images/car_rental.png" alt=""/>
@@ -40,6 +42,28 @@ function Portfolio() {
                 </div>
 
 
+                <div className="tab-item portfolio-item">
+                   <div className="work-img">
+                    <img src="images/tripma.png" alt=""/>
+                </div>
+                <div className="work-info">
+                    <h4>Tripma</h4>
+                    <p>A Flight booking WebApp,where Razorpay and Gemini integrated.</p>
+                    <div className="tech-used">
+                        <p>TailwindCSS , ReactJS , Firebase</p>
+                    </div>
+                    <div className="portfolio-icon work-icon">
+                        <a href="https://tripma-gamma.vercel.app/">
+                            <i className='bx bx-arrow-back' ></i>
+                            <span className="tooltip">Preview</span>
+                        </a>
+                        <a href="https://github.com/Satish-kumar-Meher/Tripma">
+                            <i className='bx bxl-github' ></i>
+                            <span className="tooltip">Github Repo</span>
+                        </a>
+                    </div>
+                </div>
+                </div>
 
 
                 <div className="tab-item portfolio-item">
