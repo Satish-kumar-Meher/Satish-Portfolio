@@ -48,6 +48,10 @@ function Home() {
                                 <i className='bx bxl-instagram' ></i>
                                 <span className="tooltip">Instagram</span>
                             </a>
+                              <a href="https://www.facebook.com/satishmeher.satish">
+                                <i className='bx bxl-facebook' ></i>
+                                <span className="tooltip">Facebook</span>
+                            </a>
                             <a href="https://youtu.be/8MbaNmrfE5I?si=krFCqe8crHfF82IB">
                                 <i className='bx bxl-youtube' ></i>
                                 <span className="tooltip">Youtube</span>
