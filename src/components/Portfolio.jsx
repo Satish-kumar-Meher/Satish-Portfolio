@@ -27,7 +27,7 @@ function Portfolio() {
                         <p>Tailwind css , ReactJS , Framer Motion</p>
                     </div>
                     <div className="portfolio-icon work-icon">
-                        <a href="https://shrinivesh.vercel.app/">
+                        <a href="https://shrinivesh.com">
                             <i className='bx bx-arrow-back' ></i>
                             <span className="tooltip">Preview</span>
                         </a>
