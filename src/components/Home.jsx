@@ -1,6 +1,6 @@
 import React from 'react'
 import "../App.css";
-const CV_FILE = "/New-Resume.pdf"
+const CV_FILE = "/Latest-Resume.pdf"
 function Home() {
     const downloadCV = () => {
         const filename = CV_FILE.split("/").pop()
