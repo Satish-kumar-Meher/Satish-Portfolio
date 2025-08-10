@@ -57,19 +57,7 @@ function Resume() {
                     </div>
 
                     <div className="tab-grid resume-box skills">
-                        <div className="tab-item resume-item">
-                            <i className='bx bxl-html5'></i>
-                            <p>HTML5</p>
-                        </div>
-                        <div className="tab-item resume-item">
-                            <i className='bx bxl-css3' ></i>
-                            <p>CSS3</p>
-                        </div>
-                        <div className="tab-item resume-item">
-                            <i className='bx bxl-tailwind-css' ></i>
-                            <p>Tailwind</p>
-                        </div>
-                        <div className="tab-item resume-item">
+                              <div className="tab-item resume-item">
                             <i className='bx bxl-javascript' ></i>
                             <p>JavaScript</p>
                         </div>
@@ -85,6 +73,20 @@ function Resume() {
                             <i className='bx bxl-python' ></i>
                             <p>Python</p>
                         </div>
+
+                        <div className="tab-item resume-item">
+                            <i className='bx bxl-html5'></i>
+                            <p>HTML5</p>
+                        </div>
+                        <div className="tab-item resume-item">
+                            <i className='bx bxl-css3' ></i>
+                            <p>CSS3</p>
+                        </div>
+                        <div className="tab-item resume-item">
+                            <i className='bx bxl-tailwind-css' ></i>
+                            <p>Tailwind</p>
+                        </div>
+                      
                         <div className="tab-item resume-item">
                             <i className='bx bxl-nodejs' ></i>
                             <p>NodeJS</p>
