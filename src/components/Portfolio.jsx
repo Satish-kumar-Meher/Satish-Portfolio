@@ -258,26 +258,6 @@ function Portfolio() {
                     <p>I provide AWS deployment with CI/CD pipelines for efficient, automated builds and redeployment, ensuring scalability and minimal downtime.</p>
 
                  </div>
-    
-                 {/* <div className="tab-item portfolio-item">
-                    <div className="portfolio-icon service-icon">
-                        <i className='bx bx-server icon' ></i>
-                     <a href=""><i className='bx bx-arrow-back' ></i></a>
-                    </div> 
-                    <h4>Microservices</h4>
-                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure, fugiat.</p>
-                 </div> */}
-    
-                 {/* <div className="tab-item portfolio-item">
-                    <div className="portfolio-icon service-icon">
-                        <i className='bx bx-slideshow icon' ></i>
-                     <a href=""><i className='bx bx-arrow-back' ></i></a>
-                    </div> 
-                    <h4>Video Editing</h4>
-                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure, fugiat.</p>
-                 </div> */}
-
-
             </div>
         </div>
      </section>
