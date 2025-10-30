@@ -39,6 +39,29 @@ function Portfolio() {
                 </div>
                 </div>
 
+                <div className="tab-item portfolio-item">
+                   <div className="work-img">
+                    <img src="images/skillloop.png" alt=""/>
+                </div>
+                <div className="work-info">
+                    <h4>Skillloop</h4>
+                    <p>A learning paltform for MBA students, here i worked only on the backend part.</p>
+                    <div className="tech-used">
+                        <p>Tailwind css , ReactJS , Framer motion , Firebase</p>
+                    </div>
+                    <div className="portfolio-icon work-icon">
+                        <a href="https://skillloop.co.in/">
+                            <i className='bx bx-arrow-back' ></i>
+                            <span className="tooltip">Preview</span>
+                        </a>
+                        <a href="#">
+                            <i className='bx bxl-github' ></i>
+                            <span className="tooltip">Github Repo</span>
+                        </a>
+                    </div>
+                </div>
+                </div>
+
             <div className="tab-item portfolio-item">
                    <div className="work-img">
                     <img src="images/car_rental.png" alt=""/>

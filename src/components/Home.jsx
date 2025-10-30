@@ -23,9 +23,9 @@ function Home() {
                 <div className="home-info">
                     <h3>Hello I'm</h3>
                     <h1>Satish Kumar Meher</h1>
-                    <h3>Full Stack Developer</h3>
+                    <h3>Full Stack Developer  Freelancer</h3>
                     <p className="desc">
-                    MERN STACK || API developer || UI/UX || DevOps || Microservices || IIIT-BH || CE 27'
+                    MERN STACK || Scalable API development || UI/UX || System Designing || DevOps || Microservices || Generative AI || IIIT-BH || CE 27'
                     </p>
                     <div className="btn-sci">
                         <a className="btn" onClick={downloadCV}>Download CV</a>

@@ -19,8 +19,8 @@ function Resume() {
                 <div className="tab-wrapper">
                     <div className="tab-grid resume-box experience active">
                         <div className="tab-item resume-item">
-                            <h4>2024 - Present</h4>
-                            <h4>Fullstack Web Developer</h4>
+                            <h4>2025 - Present</h4>
+                            <h4>Freelancer</h4>
                             <h4>10+ Project</h4>
                             <p>I have extensive experience, successfully completing 10+ full-stack projects with modern technologies and frameworks</p>
                         </div>
